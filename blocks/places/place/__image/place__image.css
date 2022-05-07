@@ -11,3 +11,18 @@
         height: 440px;
     }
 }
+
+@media screen and (max-width:1023px) and (min-width:768px) {
+    .place__image {
+        max-width: 340px;
+        height: 340px;
+    }
+}
+
+@media screen and (max-width:767px) and (min-width:320px) {
+    .place__image {
+        max-width: 320px;
+        height: 320px;
+        margin: 0 -16px;
+    }
+}
