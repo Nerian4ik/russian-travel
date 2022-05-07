@@ -18,5 +18,9 @@
     .place__title {
         font-size: 32px;
         line-height: 109%;
+        margin-top: 50px;
+    }
+    .place__title:first-child {
+        margin: 0;
     }
 }

@@ -1,4 +1,5 @@
 .cover__title {
+    width: 560px;
     font-weight: 900;
     font-size: 72px;
     line-height: 106%;
@@ -12,5 +13,6 @@
     .cover__title {
         font-size: 32px;
         line-height: 109%;
+        width: 288px;
     }
 }
