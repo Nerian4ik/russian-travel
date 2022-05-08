@@ -2,9 +2,9 @@
     margin: 0 auto 32px auto;
     max-width: 720px;
     font-size: 96px;
-    line-height: 100px;
+    line-height: 104%;
     text-align: center;
-    font-family: 'inter';
+    font-weight: 900;
 }
 
 @media screen and (max-width:767px) and (min-width:320px) {
