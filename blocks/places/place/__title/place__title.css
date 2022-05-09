@@ -1,10 +1,8 @@
 .place__title {
-    font-style: normal;
     font-size: 54px;
     line-height: 107%;
     grid-area: title;
     margin: 0;
-    font-family: 'Inter';
     font-weight: 900;
 }
 
@@ -18,9 +16,6 @@
     .place__title {
         font-size: 32px;
         line-height: 109%;
-        margin-top: 50px;
-    }
-    .place__title:first-child {
-        margin: 0;
+        margin: 50px 16px 0 16px;
     }
 }
