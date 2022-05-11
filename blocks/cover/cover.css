@@ -4,7 +4,7 @@
     margin-top: 92px;
 }
 
-@media screen and (max-width:1023) and (min-width:768px) {
+@media screen and (max-width:1023px) and (min-width:768px) {
     .cover {
         margin-top: 90px;
     }
